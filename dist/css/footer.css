@@ -1,0 +1,154 @@
+.footer-container{
+    margin-top: 30px;
+}
+
+.footer-top{
+    background: #151515;
+    padding: 40px 0;
+    border-top: 3px solid #49b14d;
+}
+
+.footer-container .footer-logo{
+    margin-bottom: 10px;
+}
+
+.footer-container .foooter-content{
+    position: relative;
+}
+.footer-container .social{
+    list-style: none;
+    display: flex;
+    margin-top: 10px;
+    clear: both;
+    padding-left: 0px;
+}
+
+.footer-container .social li{
+    padding: 2px;
+}
+
+.footer-container .social li a{
+    display: block;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 15px;
+    
+}
+.footer-container .social li:nth-child(1) a{
+    background-color: #3b5998;
+    
+}
+
+.footer-container .social li:nth-child(2) a{
+    background-color: #1da1f2;
+}
+.footer-container .social li:nth-child(3) a{
+    background-color: #dd4b39;
+}
+.footer-container .social li:nth-child(4) a{
+    background-color: #bd081c;
+}
+
+ .footer-infor p{
+    margin-bottom: 5px;
+    color: #e4e4e4;
+}
+
+.footer-container{
+    background-color: #151515;
+}
+
+  .link{
+    text-decoration: none;
+    color: #888;
+}
+
+.link:hover{
+    text-decoration: none;
+    color: white;
+}
+
+ .menu li a{
+    text-decoration: none;
+    color: #888;
+}
+
+.menu li a:hover{
+    color: white;
+}
+
+.menu li{
+    list-style: none;
+    display: block;
+    margin-bottom: 5px;
+}
+.menu{
+    padding: 0;
+    margin: 0;
+    
+}
+ #abc .footer-content{
+    padding-top: 26px;
+}
+
+.footer-title h3{
+    color: #c9c9c9;
+    font-size: 17px;
+    margin-bottom: 30px;
+    text-align: left;
+    margin-top: 0;
+    font-weight: 500;
+}
+
+.maichimp-footer{
+    background-color: #0f0f0f;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.maichimp-footer h3{
+    color: #fff;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 0;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.maichimp-footer form button:hover{
+    color: #fff;
+    background-color: #3f9842;
+}
+
+.maichimp-footer form button{
+    color: #fff;
+    background-color: #4bb34e;
+}
+
+.maichimp-footer form input{
+    border-radius: 0;
+}
+
+.footer-container .footer-bottom{
+    background: #0f0f0f;
+    padding: 10px 0;
+}
+
+.copyright{
+    color: #9d9d9d;
+}
+
+.copyright a{
+    color: #9d9d9d;
+    text-decoration: none;
+
+}
+.copyright a:hover{
+    color:  #4bb34e;
+    text-decoration: none;
+}
